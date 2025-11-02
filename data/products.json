@@ -1,0 +1,321 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "name": "iPhone 17",
+    "price": 26990000
+    "colors": ["Lavender (T�m O?i Huong)", "Sage (Xanh X� Thom)", "Mist Blue (Xanh Suong M�)", "White (Tr?ng)", "Black (�en)"],
+    "short": "M�n h�nh ProMotion 120Hz - Camera k�p 48MP Fusion - Chip A19",
+    "description": "iPhone 17 d�nh d?u bu?c ti?n d?t ph� khi l?n d?u ti�n mang c�ng ngh? m�n h�nh ProMotion 120Hz cao c?p t? d�ng Pro xu?ng phi�n b?n ti�u chu?n. M�n h�nh Super Retina XDR OLED 6.3 inch v?i t?n s? qu�t th�ch ?ng t? 1Hz d?n 120Hz, ti?t ki?m pin t?i da khi d?c s�ch v� mu?t m� tuy?t d?i khi choi game. �? ph�n gi?i 2622x1206 si�u s?c n�t, d? s�ng d?nh 2000 nits cho n?i dung HDR v� 3000 nits ngo�i tr?i - s�ng nh?t t?ng c� tr�n iPhone ti�u chu?n. H? tr? 1 t? m�u s?c, d? tuong ph?n v� c?c v� t?n s? PWM 480Hz ch?ng nh?c m?t.\n\nThi?t k? du?c l�m m?i ho�n to�n v?i khung nh�m t�i ch? 100% t? ng�nh h�ng kh�ng, b?n hon 40% so v?i nh�m th�ng thu?ng. M?t lung v� m?t tru?c s? d?ng k�nh Ceramic Shield th? h? 2 ch?ng tr?y xu?c g?p 3 l?n v� ch?ng roi v? g?p 2 l?n. Vi?n m�n h�nh m?ng hon 30% t?o t? l? m�n h�nh tr�n th�n m�y 92%.\n\nTr�i tim c?a iPhone 17 l� chip A19 Bionic 3nm th? h? m?i v?i CPU 6 nh�n m?nh hon 35% v� ti?t ki?m pin 30% so v?i A18. GPU 5 nh�n tang 45% s?c m?nh d? h?a cho choi game mu?t m� 120fps. B? x? l� AI Neural Engine 16 nh�n x? l� 17 ngh�n t? ph�p t�nh m?i gi�y. RAM 8GB d?m b?o da nhi?m mu?t m�.\n\nH? th?ng camera k�p Fusion du?c n�ng c?p to�n di?n: Camera ch�nh 48MP v?i c?m bi?n l?n hon 50%, l?y n�t nhanh 0.1 gi�y, ch?ng rung quang h?c 5 tr?c cho ?nh si�u s?c n�t v?i m�u s?c ch�n th?c trong m?i di?u ki?n �nh s�ng. C�ng ngh? x? l� ?nh th? h? m?i t? d?ng t?i uu d? phoi s�ng, m�u s?c v� d? tuong ph?n. Ch? d? ch?p d�m th? h? 3 s�ng g?p 3 l?n, gi?m nhi?u 80%. Camera g�c si�u r?ng 48MP cho ch?p c?n c?nh 2cm v� ?nh to�n c?nh 120 d? s?c n�t. Camera tru?c 18MP v?i AI t? d?ng theo d�i khung h�nh khi g?i video.\n\nQuay video chuy�n nghi?p 4K 60fps v?i HDR, ch? d? di?n ?nh 4K 30fps v� ch?ng rung si�u mu?t. Pin 3400mAh cho 30 gi? ph�t video, 25 gi? xem tr?c tuy?n v� 100 gi? nghe nh?c - d�i nh?t t?ng c�. S?c nhanh 25W d?t 50% trong 30 ph�t, s?c kh�ng d�y MagSafe 15W.\n\nC?ng USB-C t?c d? 10Gbps. Dynamic Island hi?n th? th�ng b�o, cu?c g?i v� nh?c th�ng minh. M? kh�a Face ID 0.3 gi�y. K?t n?i 5G t?c d? 5Gbps, WiFi 7 si�u nhanh, Bluetooth 5.3. Ch?ng nu?c ch?ng b?i IP68 ng?p 6m trong 30 ph�t. iOS 18 v?i AI tr�n thi?t b? kh�ng c?n internet, c?p nh?t 7 nam. Nam m�u s?c hi?n d?i: T�m Lavender thanh l?ch, Xanh Sage tuoi m�t, Xanh Mist Blue mo m�ng, Tr?ng tinh kh�i v� �en huy?n b�.",
+    "featured": true,
+    "images": ["assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg"],
+    "specs": {"screen":"6.3\" OLED ProMotion 120Hz","ram":"8 GB","rom":"128 GB","chip":"A19 Bionic (3nm)","camera":"48 MP + 48 MP","battery":"3400 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 2,
+    "brand": "Apple",
+    "name": "iPhone 17 Air",
+    "price": 22990000
+    "colors": ["Sky Blue (Xanh Da Tr?i)", "Light Gold (V�ng Nh?t)", "Cloud White (Tr?ng M�y)", "Space Black (�en Kh�ng Gian)"],
+    "short": "Thi?t k? m?ng nh? nh?t - Camera 48MP - Chip A19",
+    "description": "iPhone 17 Air l� ki?t t�c thi?t k? si�u m?ng ch? 5.5mm - m?ng nh?t t?ng c� tr�n d�ng iPhone, nh? nh?t th? gi?i v?i tr?ng lu?ng ch? 140g. Khung nh�m h�ng kh�ng vu tr? chu?n 7000 si�u c?ng k?t h?p m?t lung k�nh si�u m?ng 0.5mm t?o c?m gi�c c?m n?m nhu kh�ng c� g� trong tay nhung v?n d?m b?o d? b?n cao c?p.\n\nM�n h�nh Super Retina XDR OLED 6.1 inch v?i vi?n si�u m?ng 1.5mm, t? l? m�n h�nh 93%. C�ng ngh? ProMotion 120Hz th�ch ?ng t? 1Hz d?n 120Hz ti?t ki?m pin t?i da. �? s�ng d?nh 2000 nits cho HDR v� 2500 nits ngo�i tr?i. H? tr? 1 t? m�u s?c hi?n th? s?c n�t d?n t?ng di?m ?nh.\n\nChip A19 Bionic 3nm v?i CPU 6 nh�n hi?u su?t cao, GPU 6 nh�n tang 40% s?c m?nh d? h?a. B? x? l� AI 16 nh�n x? l� 17 ngh�n t? ph�p t�nh m?i gi�y. RAM 8GB si�u nhanh mang l?i hi?u nang d?nh cao nhung ti?t ki?m nang lu?ng v?i hi?u su?t tang 45%.\n\nH? th?ng camera k�p ti�n ti?n: Camera ch�nh 48MP v?i c?m bi?n l?n, c�ng ngh? AI t?i uu t?ng b?c ?nh. Ch? d? ch?p d�m th? h? 3 si�u s�ng kh�ng nhi?u, c?i thi?n m�u s?c 300%, c�n b?ng �nh s�ng t? d?ng v?i 9 hi?u ?ng ch�n dung. Quay video 4K 60fps v?i ch?ng rung si�u mu?t. Camera g�c r?ng 12MP cho ch?p c?n c?nh 2cm v� ?nh to�n c?nh 120 d?.\n\nPin 3200mAh t?i uu AI s? d?ng d? c? ng�y: 18 gi? xem video, 15 gi? xem tr?c tuy?n. S?c nhanh 25W d?t 50% trong 30 ph�t, s?c kh�ng d�y MagSafe 15W v?i 36 nam ch�m d?nh v? ch�nh x�c.\n\nDynamic Island hi?n th? th�ng b�o th�ng minh. Face ID m? kh�a nhanh 0.3 gi�y. K?t n?i 5G t?c d? 4.5Gbps, WiFi 7 si�u nhanh, Bluetooth 5.3. Ch?ng nu?c ch?ng b?i IP68 chu?n qu�n s? ng?p 6m trong 30 ph�t. iOS 18 v?i h�ng tram t�nh nang AI d?c quy?n. B?n m�u thanh l?ch: Xanh Sky Blue tuoi m�t, V�ng Light Gold nh? nh�ng, Tr?ng Cloud White tinh kh�i, �en Space Black huy?n b�.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Air/carousel-1.jpg","assets/img/iPhone 17 Air/carousel-2.jpg","assets/img/iPhone 17 Air/carousel-3.jpg","assets/img/iPhone 17 Air/carousel-4.jpg","assets/img/iPhone 17 Air/carousel-5.jpg"],
+    "specs": {"screen":"6.1\" OLED","ram":"8 GB","rom":"128 GB","chip":"A19 Bionic (3nm)","camera":"48 MP","battery":"3200 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 3,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro",
+    "price": 33990000
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "short": "Camera 3 ?ng 48MP - Zoom quang 8x - Chip A19 Pro",
+    "description": "iPhone 17 Pro l� d?nh cao c�ng ngh? d�nh cho ngu?i d�ng chuy�n nghi?p v� nh� s�ng t?o n?i dung v?i h? th?ng camera Pro d?t ph� ho�n to�n m?i.\n\nThi?t k? cao c?p v?i khung titan h�ng kh�ng vu tr? chu?n Grade 5 nh? hon nh�m 45% nhung c?ng g?p d�i, ch?ng an m�n tuy?t d?i. Gia c�ng CNC ch�nh x�c v?i ho�n thi?n b? m?t titan xu?c sang tr?ng chuy�n nghi?p. M?t lung v� m?t tru?c k�nh Ceramic Shield th? h? 2 ch?ng tr?y xu?c g?p 3 l?n v� ch?ng roi g?p 2 l?n, d?t chu?n qu�n s?.\n\nM�n h�nh Super Retina XDR Pro 6.3 inch v?i c�ng ngh? ProMotion 120Hz th�ch ?ng t? 1Hz d?n 120Hz si�u mu?t. �? ph�n gi?i 2868x1320 si�u s?c n�t. �? s�ng d?nh 2000 nits cho HDR v� 3000 nits ngo�i tr?i - s�ng nh?t l?ch s? iPhone. Hi?n th? 1 t? m�u s?c ch?t lu?ng m�n h�nh chuy�n nghi?p v?i d? tuong ph?n v� c?c. Ch? d? m�u chu?n x�c cho ch?nh s?a ?nh video.\n\nChip A19 Pro 3nm v?i CPU 6 nh�n tang 45% hi?u su?t v� ti?t ki?m 35% nang lu?ng. GPU 6 nh�n tang 55% s?c m?nh d? h?a v?i c�ng ngh? v? �nh s�ng th?i gian th?c. B? x? l� AI 18 nh�n x? l� 20 ngh�n t? ph�p t�nh m?i gi�y. RAM 8GB si�u nhanh.\n\nH? th?ng camera Pro d?t ph� v?i 3 camera d?u 48MP - l?n d?u ti�n tr�n iPhone: Camera ch�nh 48MP c?m bi?n l?n v?i l?y n�t t?c th?i 0.08 gi�y, ch?ng rung 7 tr?c, d?i s�ng d?ng 13.5 stops. Camera g�c r?ng 48MP ch?p c?n c?nh 2cm v� to�n c?nh 120 d? kh�ng m�o. Camera tele 48MP zoom quang 4x v� zoom n�ng cao 8x v?i ch?ng rung 3 tr?c cho ch�n dung v� ch?p xa d?ng c?p. H? tr? d?nh d?ng chuy�n nghi?p Apple ProRAW 48MP v� ProRes 4K 60fps. Ch? d? di?n ?nh 4K 60fps l?y n�t t? d?ng, ch?p d�m phoi s�ng d�i 30 gi�y, quay video 8K 30fps, ch?ng rung ch?t lu?ng gimbal.\n\nPin 3550mAh cho 31 gi? xem video, 27 gi? tr?c tuy?n. S?c nhanh 30W d?t 50% trong 25 ph�t, s?c kh�ng d�y MagSafe 20W. C?ng USB-C t?c d? 40Gbps truy?n video t?c th� v� k?t n?i m�n h�nh 6K.\n\nDynamic Island da nhi?m th�ng minh. Always-On Display ti?t ki?m pin. Face ID m? kh�a 0.2 gi�y. K?t n?i 5G t?c d? 8Gbps, WiFi 7 si�u nhanh 46Gbps, Bluetooth 5.3. N�t Action t�y ch?nh l?p tr�nh ph�m t?t. Ch?ng nu?c IP68 ng?p 6m trong 30 ph�t, ch?ng roi t? 2m. iOS 18 Pro v?i t�nh nang d?c quy?n di?u khi?n camera th? c�ng chuy�n nghi?p. Ba m�u titan d?ng c?p: B?c Natural tinh t?, Xanh Deep Blue quy?n ru, Cam Cosmic Orange d?c d�o n?i b?t.",
+    "featured": true,
+    "images": ["assets/img/iPhone 17 Pro/carousel-1.jpg","assets/img/iPhone 17 Pro/carousel-2.jpg","assets/img/iPhone 17 Pro/carousel-3.jpg","assets/img/iPhone 17 Pro/carousel-4.jpg","assets/img/iPhone 17 Pro/carousel-5.jpg"],
+    "specs": {"screen":"6.3\" OLED ProMotion 120Hz","ram":"8 GB","rom":"256 GB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"3550 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 4,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro Max",
+    "price": 37990000
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "short": "M�n h�nh 6.9\" l?n nh?t - Camera Pro 48MP - B? nh? t?i da 2TB",
+    "description": "iPhone 17 Pro Max l� d?nh cao c?a c�ng ngh? smartphone v?i m�n h�nh kh?ng l? 6.7 inch Super Retina XDR Pro, c�ng ngh? ProMotion 120Hz th�ch ?ng t? 1Hz d?n 120Hz mu?t m� tuy?t d?i. �? s�ng d?nh 2000 nits cho HDR v� 2500 nits ngo�i tr?i - s�ng nh?t th? gi?i. �? ph�n gi?i 2796x1290 si�u s?c n�t, hi?n th? 2 t? m�u s?c v?i d? tuong ph?n v� c?c, mang l?i tr?i nghi?m xem phim v� choi game d?nh cao.\n\nThi?t k? si�u cao c?p v?i khung titan h�ng kh�ng vu tr? chu?n Grade 5 - nh? hon nh�m 45% nhung c?ng g?p d�i, ch?ng an m�n tuy?t d?i. Gia c�ng CNC ch�nh x�c t?o b? m?t b�ng guong sang tr?ng. M?t lung k�nh Ceramic Shield th? h? 3 ch?ng tr?y xu?c g?p 4 l?n v� ch?ng roi g?p 2 l?n k�nh thu?ng.\n\nChip A19 Pro 3nm m?nh m? v?i CPU 6 nh�n nhanh hon 40% v� ti?t ki?m pin 35%. GPU 7 nh�n tang 50% s?c m?nh d? h?a v?i c�ng ngh? v? �nh s�ng th?i gian th?c. B? x? l� AI 18 nh�n x? l� 20 ngh�n t? ph�p t�nh m?i gi�y. RAM 12GB si�u nhanh cho da nhi?m mu?t m� kh�ng gi?t lag.\n\nH? th?ng camera Pro d?nh cao cho nhi?p ?nh chuy�n nghi?p: Camera ch�nh 50MP c?m bi?n l?n v?i ch?ng rung 7 tr?c, d?i s�ng d?ng 14 stops nhu m�y ?nh chuy�n nghi?p. Camera g�c r?ng 48MP ch?p c?n c?nh 2cm v� to�n c?nh 120 d? si�u n�t. Camera tele 12MP zoom quang 5x v� zoom s? 25x v?i ch?ng rung 3 tr?c. H? tr? d?nh d?ng chuy�n nghi?p Apple ProRAW 48MP v� quay video 4K 120fps. Ch? d? di?n ?nh 4K 60fps, ch?p d�m si�u s�ng, ch�n dung 9 hi?u ?ng.\n\nPin kh?ng 4350mAh cho 28 gi? xem video, 25 gi? xem tr?c tuy?n. S?c nhanh 35W d?t 50% trong 23 ph�t, s?c kh�ng d�y MagSafe 25W v?i 36 nam ch�m d?nh v? ch�nh x�c. C?ng USB-C t?c d? 40Gbps truy?n video nhanh v� k?t n?i m�n h�nh 6K.\n\nDynamic Island th�ng minh hi?n th? da nhi?m. Always-On Display ti?t ki?m pin. Face ID m? kh�a 0.2 gi�y. K?t n?i 5G t?c d? 10Gbps, WiFi 7 si�u nhanh 46Gbps, Bluetooth 5.3. Ch?ng nu?c IP68 ng?p 6m trong 30 ph�t. N�t Action t�y ch?nh hon 20 ch?c nang. iOS 18 Pro v?i t�nh nang d?c quy?n di?u khi?n camera th? c�ng chuy�n nghi?p. Ba m�u titan d?ng c?p: B?c Silver sang tr?ng, Xanh Deep Blue huy?n b�, Cam Cosmic Orange n?i b?t.",
+    "featured": true,
+    "images": ["assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg"],
+    "specs": {"screen":"6.9\" OLED ProMotion 120Hz","ram":"12 GB","rom":"512 GB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"4350 mAh","os":"iOS 18"}
+  },
+
+  {
+    "id": 11,
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S25 256GB",
+    "price": 22990000
+    "colors": ["Xanh Navy", "Xanh Icy", "Xanh Mint", "Bac Shadow"],
+    "short": "Snapdragon 8 Elite - Camera 50MP AI - M�n h�nh 120Hz 2600 nits",
+    "description": "Samsung Galaxy S25 l� smartphone Android cao c?p m? d?u k? nguy�n AI m?i v?i thi?t k? tinh t? du?c ch? t�c t? m?. Khung nh�m Armor Aluminum th? h? 2 tang d? c?ng 40% nhung ch? n?ng 168g, k?t h?p k�nh cu?ng l?c Gorilla Glass Victus 2 ch?ng tr?y xu?c g?p 60% v� ch?ng roi g?p 50%. C?m camera thi?t k? t?i gi?n li?n m?ch v?i m?t lung kh�ng l?i, t?o th?m m? d?p m?t. �? d�y ch? 7.6mm v?i vi?n cong 2.5D c?m n?m tho?i m�i.\n\nM�n h�nh Dynamic AMOLED 2X 6.2 inch v?i c�ng ngh? LTPO th? h? 3 t?n s? qu�t th�ch ?ng t? 1Hz d?n 120Hz si�u mu?t. �? s�ng d?nh 2000 nits HDR v� 2600 nits ngo�i tr?i - s�ng nh?t ph�n kh�c, d? nh�n r� du?i n?ng ch�i. Hi?n th? 100% d?i m�u DCI-P3, 1 t? m�u s?c v?i d? tuong ph?n 3 tri?u:1. C�ng ngh? Vision Booster AI t? d?ng di?u ch?nh d? s�ng theo m�i tru?ng. B?o v? m?t v?i l?c �nh s�ng xanh ch?ng nh?n SGS.\n\nHi?u nang d?nh cao v?i chip Snapdragon 8 Elite for Galaxy s?n xu?t 3nm ti�n ti?n nh?t. CPU 8 nh�n tang 30% hi?u su?t v� ti?t ki?m 25% pin. GPU Adreno 830 tang 40% s?c m?nh d? h?a. B? x? l� AI th? h? 8 x? l� 50 ngh�n t? ph�p t�nh m?i gi�y. RAM 12GB si�u nhanh da nhi?m mu?t m� m? 50+ ?ng d?ng c�ng l�c.\n\nH? th?ng camera n�ng c?p to�n di?n: Camera ch�nh 50MP c?m bi?n l?n 1/1.56 inch v?i l?y n�t t?c th?i 0.1 gi�y, ch?ng rung quang h?c 3 tr?c cho ?nh si�u s?c n�t, m�u s?c ch�n th?c trong m?i di?u ki?n �nh s�ng. AI t?i uu t? d?ng m?i th�ng s? ch?p gi�p c� ?nh d?p chuy�n nghi?p kh�ng c?n ch?nh nhi?u. Camera g�c r?ng 12MP tru?ng nh�n 120 d? v?i AI gi?m m�o h�nh. Camera tele 10MP zoom quang 3x v?i ch?ng rung. AI Zoom c?i thi?n ch?t lu?ng ?nh zoom s? 10-30x. Quay video chuy�n nghi?p 4K 60fps v� 8K 30fps v?i ch?ng rung si�u mu?t.\n\nPin 4000mAh t?i uu AI cho 8-10 gi? s? d?ng th?c t?. S?c nhanh 25W d?t 50% trong 30 ph�t. S?c kh�ng d�y 15W ti?n l?i. S?c ngu?c kh�ng d�y 4.5W cho tai nghe v� d?ng h?.\n\nT�nh nang AI d?c quy?n Galaxy AI: Circle to Search khoanh tr�n t�m ki?m t?c th�, Live Translate phi�n d?ch cu?c g?i 13 ng�n ng?, Chat Assist so?n tin nh?n th�ng minh, Photo Assist x�a ph�ng v� x�a d?i tu?ng, Generative Edit ch?nh s?a ?nh s�ng t?o, Auto Trim bi�n t?p video t? d?ng, Audio Eraser lo?i ti?ng ?n trong video, Note Assist t�m t?t ghi ch�, Browsing Assist t�m t?t b�i vi?t web. Android 15 v?i One UI 7, cam k?t 7 nam c?p nh?t. K?t n?i 5G 5Gbps, WiFi 7 5.8Gbps, Bluetooth 5.3. V�n tay si�u �m du?i m�n h�nh 0.2 gi�y. Ch?ng nu?c IP68 ng?p 1.5m trong 30 ph�t. B?n m�u hi?n d?i: Xanh Navy thanh l?ch, Xanh Icy tuoi m�t, Xanh Mint nh? nh�ng, B?c Shadow sang tr?ng.",
+    "featured": true,
+    "images": ["assets/img/Samsung Galaxy S25/carousel-1.jpg","assets/img/Samsung Galaxy S25/carousel-2.jpg","assets/img/Samsung Galaxy S25/carousel-3.jpg","assets/img/Samsung Galaxy S25/carousel-4.jpg","assets/img/Samsung Galaxy S25/carousel-5.jpg"],
+    "specs": {"screen":"6.2\" Dynamic AMOLED 2X 120Hz","ram":"12 GB","rom":"256 GB","chip":"Snapdragon 8 Elite (3nm)","camera":"50 MP + 12 MP + 10 MP","battery":"4000 mAh","os":"Android 15"}
+  },
+  {
+    "id": 12,
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S25+ 256GB",
+    "price": 26990000
+    "colors": ["Xanh Navy", "Xanh Icy", "Xanh Mint", "Bac Shadow"],
+    "short": "M�n h�nh 6.7\" l?n hon - Pin kh?ng - Snapdragon 8 Elite",
+    "description": "Samsung Galaxy S25 Plus l� phi�n b?n m�n h�nh l?n d�nh cho nh?ng ai y�u th�ch tr?i nghi?m xem phim, choi game v� l�m vi?c tr�n kh�ng gian hi?n th? r?ng r�i.\n\nM�n h�nh kh?ng l? Dynamic AMOLED 2X 6.7 inch Quad HD+ (3120x1440) si�u s?c n�t v?i c�ng ngh? LTPO th? h? 3 t?n s? qu�t th�ch ?ng t? 1Hz d?n 120Hz mu?t m� tuy?t d?i. �? s�ng d?nh 2000 nits HDR v� 2600 nits ngo�i tr?i - s�ng nh?t ph�n kh�c. Hi?n th? s?ng d?ng v?i 100% d?i m�u DCI-P3, 1 t? m�u s?c, d? tuong ph?n 3 tri?u:1. C�ng ngh? Vision Booster AI t? d?ng di?u ch?nh d? s�ng theo m�i tru?ng. L?c �nh s�ng xanh ch?ng nh?n SGS b?o v? m?t.\n\nThi?t k? tinh ch?nh m?ng nh? hon v?i d? d�y 7.3mm v� tr?ng lu?ng 190g. Khung nh�m Armor Aluminum th? h? 2 tang d? c?ng 40%, b?n nhu th�p nhung nh? nhu nh�m. K�nh Gorilla Glass Victus 2 ch?ng tr?y xu?c g?p 60% v� ch?ng roi g?p 50%. Vi?n m�n h�nh m?ng hon 20% t?o t? l? m�n h�nh 91%. C?m camera t?i gi?n li?n m?ch v?i m?t lung.\n\nHi?u nang d?nh cao v?i chip Snapdragon 8 Elite for Galaxy s?n xu?t 3nm ti�n ti?n nh?t. CPU 8 nh�n tang 37% hi?u su?t don nh�n v� 30% da nh�n, ti?t ki?m 25% pin. GPU Adreno 830 tang 40% s?c m?nh d? h?a cho game AAA mu?t 120fps. B? x? l� AI th? h? 8 x? l� 50 ngh�n t? ph�p t�nh m?i gi�y. RAM 12GB si�u nhanh da nhi?m mu?t m� m? 50+ ?ng d?ng.\n\nH? th?ng camera ba ?ng n�ng c?p to�n di?n: Camera ch�nh 50MP c?m bi?n l?n 1/1.56 inch v?i l?y n�t 0.1 gi�y, ch?ng rung quang h?c 3 tr?c cho ?nh c?c s?c n�t v?i m�u s?c ch�n th?c. AI t?i uu t? d?ng m?i th�ng s? ch?p. Camera g�c r?ng 12MP tru?ng nh�n 120 d? v?i AI gi?m m�o h�nh 40%. Camera tele 10MP zoom quang 3x v?i ch?ng rung. AI Zoom c?i thi?n ch?t lu?ng zoom s? 10-30x. Quay video chuy�n nghi?p 4K 60fps v� 8K 30fps v?i ch?ng rung k�p si�u mu?t.\n\nPin kh?ng l? 4700mAh t?i uu AI cho 9-11 gi? s? d?ng th?c t?. S?c si�u nhanh 45W d?t 50% trong 23 ph�t. S?c kh�ng d�y 15W ti?n l?i. S?c ngu?c kh�ng d�y 4.5W cho tai nghe v� d?ng h?.\n\nT�nh nang AI d?c quy?n Galaxy AI: Circle to Search t�m ki?m t?c th�, Live Translate phi�n d?ch cu?c g?i 13 ng�n ng?, Chat Assist so?n tin th�ng minh, Photo Assist x�a ph�ng v� d?i tu?ng, Generative Edit ch?nh ?nh s�ng t?o, Auto Trim bi�n t?p video t? d?ng, Audio Eraser lo?i ti?ng ?n, Note Assist t�m t?t ghi ch�, Browsing Assist t�m t?t b�i vi?t. Android 15 v?i One UI 7, cam k?t 7 nam c?p nh?t. K?t n?i 5G 7Gbps, WiFi 7 5.8Gbps, Bluetooth 5.3. V�n tay si�u �m 0.2 gi�y. Ch?ng nu?c IP68 ng?p 1.5m trong 30 ph�t. �m thanh Dolby Atmos v?i loa k�p AKG. B?n m�u hi?n d?i: Xanh Navy thanh l?ch, Xanh Icy tuoi m�t, Xanh Mint nh? nh�ng, B?c Shadow sang tr?ng.",
+    "featured": false,
+    "images": ["assets/img/Samsung Galaxy S25+/carousel-1.jpg","assets/img/Samsung Galaxy S25+/carousel-2.jpg","assets/img/Samsung Galaxy S25+/carousel-3.jpg","assets/img/Samsung Galaxy S25+/carousel-4.jpg","assets/img/Samsung Galaxy S25+/carousel-5.jpg"],
+    "specs": {"screen":"6.7\" Dynamic AMOLED 2X 120Hz","ram":"12 GB","rom":"256 GB","chip":"Snapdragon 8 Elite (3nm)","camera":"50 MP + 12 MP + 10 MP","battery":"4700 mAh","os":"Android 15"}
+  },
+  {
+    "id": 13,
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S25 Ultra",
+    "price": 33990000
+    "colors": ["Den Titan", "Xam Titan", "Xanh Bac Titan", "Trang Bac Titan"],
+    "short": "Camera 200MP chuy�n nghi?p - Khung Titan - B? nh? t?i da 1TB",
+    "description": "Samsung Galaxy S25 Ultra d?i di?n cho d?nh cao tuy?t d?i c?a c�ng ngh? smartphone Android d�nh cho ngu?i d�ng chuy�n nghi?p, nhi?p ?nh gia, nh� s�ng t?o n?i dung v� nh?ng ai y�u th�ch c�ng ngh? cao c?p kh�ng th?a hi?p. Thi?t k? si�u cao c?p v?i khung vi?n Titanium Grade 5 chu?n h�ng kh�ng vu tr? - lo?i titan c?ng nh?t du?c s? d?ng trong m�y bay chi?n d?u F-22 Raptor, nh? hon nh�m 48% nhung d? c?ng v� kh? nang ch?ng an m�n g?p 2.5 l?n, du?c gia c�ng CNC si�u ch�nh x�c v?i dung sai 3 micromet v� ho�n thi?n b? m?t PVD t?o k?t c?u titan ch?i sang tr?ng chuy�n nghi?p, k?t h?p v?i m?t lung k�nh Gorilla Glass Armor d?c quy?n ch?ng ch�i lo�ng gi?m 75% v� ch?ng tr?y xu?c g?p 4 l?n so v?i Victus 2, t?o n�n v? d?p tinh x?o v� d? b?n vu?t tr?i d?t chu?n qu�n s? MIL-STD-810H. M�n h�nh kh?ng l? Dynamic AMOLED 2X 6.8 inch Quad HD+ (3120x1440, 516ppi) s? d?ng c�ng ngh? LTPO th? h? 3 v?i t?n s? qu�t th�ch ?ng th�ng minh t? 1Hz Always-On Display ti?t ki?m pin t?i da d?n 120Hz gaming mu?t m� khi choi game PUBG Mobile, Call of Duty Mobile, Genshin Impact, d? ph�n gi?i si�u s?c n�t, d? s�ng d?nh HDR d?t 2000 nits cho n?i dung Dolby Vision HDR10+ v� d? s�ng ngo�i tr?i c?c d?i 2600 nits - s�ng nh?t trong l?ch s? Samsung flagship, kh�ng ch? hi?n th? h�nh ?nh s?ng d?ng v?i 100% d?i m�u DCI-P3, 1 t? m�u s?c, d? tuong ph?n 3,000,000:1 v� c?c m� c�n c?c k? d? nh�n r� r�ng ngay c? du?i �nh n?ng m?t tr?i ch�i chang nh?t nh? c�ng ngh? Vision Booster AI th�ng minh t? d?ng di?u ch?nh d? s�ng v� m�u s?c theo m�i tru?ng. M�n h�nh c�n t�ch h?p Eye Comfort Shield ch?ng nh?n SGS gi?m �nh s�ng xanh b?o v? m?t v� t?n s? PWM 480Hz ch?ng nh?c m?t khi s? d?ng l�u, Gorilla Glass Armor ch?ng ph?n chi?u gi?m 75%. Hi?u nang flagship d?nh cao v?i b? vi x? l� Qualcomm Snapdragon 8 Elite for Galaxy du?c Samsung t?i uu ri�ng, s?n xu?t tr�n ti?n tr�nh 3nm th? h? 2 ti�n ti?n nh?t hi?n nay, ki?n tr�c Oryon CPU 8 nh�n (2 nh�n hi?u su?t cao 4.47GHz + 6 nh�n ti?t ki?m nang lu?ng 3.53GHz) tang 37% hi?u su?t don lu?ng v� 30% hi?u su?t da nhi?m, ti?t ki?m 25% nang lu?ng, GPU Adreno 830 n�ng c?p v?i ray-tracing ph?n c?ng, variable rate shading v� mesh shading tang 40% s?c m?nh d? h?a cho game AAA nhu Genshin Impact, Honkai Star Rail, Diablo Immortal mu?t m� 120fps, AI Engine Hexagon th? h? 8 v?i 50 TOPS x? l� 50 ngh�n t? ph�p t�nh AI m?i gi�y cho AI tr�n thi?t b? kh�ng c?n internet, machine learning v� nhi?p ?nh t�nh to�n. RAM 12GB LPDDR5X t?c d? 8533MHz d?m b?o da nhi?m mu?t m� m? 60+ ?ng d?ng c�ng l�c kh�ng reload, chuy?n d?i nhanh ch�ng gi?a c�c ?ng d?ng gaming streaming video rendering editing, streaming 4K videos YouTube Netflix, m?ng x� h?i Instagram TikTok Facebook, c�ng c? l�m vi?c Microsoft Office Google Workspace. H? th?ng camera 4 ?ng k�nh Pro chuy�n nghi?p du?c n�ng c?p to�n di?n: Camera ch�nh 200MP f/1.7 c?m bi?n Samsung ISOCELL HP2 si�u l?n 1/1.3 inch, k�ch thu?c pixel 0.6�m (2.4�m v?i c�ng ngh? pixel binning 16-in-1), Dual-Pixel Pro PDAF l?y n�t si�u nhanh 0.08s, OIS ch?ng rung quang h?c 4 tr?c, cho ?nh ch?p c?c k? s?c n�t v?i chi ti?t d?n t?ng pixel v� m�u s?c ch�n th?c s?ng d?ng trong m?i di?u ki?n �nh s�ng t? ban ng�y ch�i chang d?n d�m t?i. Camera g�c si�u r?ng 50MP f/1.9 v?i tru?ng nh�n 120 d? c?c r?ng, dual-pixel PDAF cho ch?p macro 3cm si�u c?n v� ?nh to�n c?nh kh�ng m�o. Camera Telephoto periscope 50MP f/3.4 v?i quang h?c g?p zoom quang h?c 5x (111mm) v� zoom lai AI 10x ch?t lu?ng cao, OIS 3 tr?c cho ch?p ch�n dung v� d?ng v?t hoang d�. Camera Telephoto 2 ph? 10MP f/2.4 zoom quang h?c 3x (70mm) da nang. H? tr? d?y d? d?nh d?ng chuy�n nghi?p: ch?p 200MP d? ph�n gi?i d?y d?, Expert RAW 14-bit kh�ng n�n DNG cho ch?nh s?a h?u k? v?i Lightroom Photoshop Capture One, quay video 8K Ultra HD 30fps v� 4K 120fps v?i HDR10+ v� Dolby Vision IQ, Super Steady OIS+EIS ch?ng rung k�p mu?t nhu gimbal, Director's View quay da camera d?ng th?i. B�t S Pen t�ch h?p s?n v?i d? tr? c?c th?p 2.8ms cho ghi ch� vi?t tay v? ngh? thu?t s? v� di?u khi?n c? ch? t? xa. Pin kh?ng l? 5000mAh t?i uu h�a AI v?i th?i lu?ng s? d?ng 12-14 gi? b?t m�n h�nh c? ng�y. S?c nhanh Super Fast Charging 3.0 45W USB-C PD 3.0 d?t 50% trong 22 ph�t, s?c kh�ng d�y Wireless Fast Charging 2.0 15W chu?n Qi, s?c ngu?c kh�ng d�y Wireless PowerShare 4.5W chia s? pin. T�nh nang AI Galaxy d?c quy?n: Circle to Search t�m ki?m tr?c quan Google Gemini, Live Translate phi�n d?ch d?ng th?i 20+ ng�n ng?, Chat Assist h? tr? vi?t AI, Photo Assist ch?nh s?a AI x�a n?n x�a v?t th?, Generative Edit t?o AI m? r?ng, Auto Trim c?t video AI t? d?ng, Audio Eraser x�a nhi?u AI, Transcript Assist chuy?n gi?ng n�i th�nh van b?n, Note Assist t�m t?t AI, Browsing Assist ch? d? d?c t�m t?t. Android 15 m?i nh?t v?i One UI 7, h? tr? c?p nh?t 7 nam d�i nh?t. K?t n?i: 5G mmWave Sub-6 dual-SIM 8Gbps, WiFi 7 46Gbps, Bluetooth 5.3 LE Audio aptX Lossless, NFC MST Samsung Pay, UWB U1 Precision Finding SmartThings. B?o m?t: v�n tay si�u �m th? h? 4 du?i m�n h�nh nhanh 0.15s, nh?n di?n khu�n m?t 2D 3D, Samsung Knox Vault chip b?o m?t ph?n c?ng. IP68 ch?ng nu?c ch?ng b?i ng?p 6m trong 30 ph�t. Spatial Audio Dolby Atmos �m thanh v�m 360, loa k�p stereo AKG ch?t lu?ng cao. B?n m�u Titanium cao c?p: �en Titanium huy?n b� d?y s?c m?nh, X�m Titanium tinh t? thanh l?ch, Xanh B?c Titanium quy?n ru b?t m?t, Tr?ng B?c Titanium tinh kh�i trong tr?o thanh l?ch.",
+    "featured": true,
+    "images": ["assets/img/Samsung Galaxy S25 Ultra/carousel-1.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-2.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-3.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-4.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-5.jpg"],
+    "specs": {"screen":"6.8\" Dynamic AMOLED 2X 120Hz","ram":"12 GB","rom":"512 GB","chip":"Snapdragon 8 Elite (3nm)","camera":"200 MP + 50 MP + 50 MP + 10 MP","battery":"5000 mAh","os":"Android 15"}
+  },
+
+  {
+    "id": 23,
+    "brand": "Apple",
+    "name": "iPhone 17 Air 256GB",
+    "price": 29690000
+    "colors": ["Sky Blue (Xanh Da Tr?i)", "Light Gold (V�ng Nh?t)", "Cloud White (Tr?ng M�y)", "Space Black (�en Kh�ng Gian)"],
+    "short": "iPhone 17 Air 256GB - m?ng nh?, hi?u nang cao",
+    "description": "iPhone 17 Air phi�n b?n 256GB v?i thi?t k? m?ng nh? nh?t.",
+    "featured": false,
+    "images": [
+      "assets/img/iPhone 17 Air/carousel-1.jpg","assets/img/iPhone 17 Air/carousel-2.jpg","assets/img/iPhone 17 Air/carousel-3.jpg","assets/img/iPhone 17 Air/carousel-4.jpg","assets/img/iPhone 17 Air/carousel-5.jpg",
+      "assets/img/iPhone 17 Air/carousel-1.jpg","assets/img/iPhone 17 Air/carousel-2.jpg","assets/img/iPhone 17 Air/carousel-3.jpg","assets/img/iPhone 17 Air/carousel-4.jpg","assets/img/iPhone 17 Air/carousel-5.jpg",
+      "assets/img/iPhone 17 Air/carousel-1.jpg","assets/img/iPhone 17 Air/carousel-2.jpg","assets/img/iPhone 17 Air/carousel-3.jpg","assets/img/iPhone 17 Air/carousel-4.jpg","assets/img/iPhone 17 Air/carousel-5.jpg"
+    ],
+    "specs": {"screen":"6.1\" OLED","ram":"8 GB","rom":"256 GB","chip":"A19 Bionic (3nm)","camera":"48 MP","battery":"3200 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 36,
+    "brand": "Apple",
+    "name": "iPhone 17 Air 512GB",
+    "price": 36290000
+    "short": "iPhone 17 Air 512GB - luu tr? l?n",
+    "description": "iPhone 17 Air phi�n b?n 512GB v?i dung lu?ng luu tr? l?n.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Air/carousel-1.jpg","assets/img/iPhone 17 Air/carousel-2.jpg","assets/img/iPhone 17 Air/carousel-3.jpg","assets/img/iPhone 17 Air/carousel-4.jpg","assets/img/iPhone 17 Air/carousel-5.jpg"],
+    "colors": ["Sky Blue (Xanh Da Tr?i)", "Light Gold (V�ng Nh?t)", "Cloud White (Tr?ng M�y)", "Space Black (�en Kh�ng Gian)"],
+    "specs": {"screen":"6.1\" OLED","ram":"8 GB","rom":"512 GB","chip":"A19 Bionic (3nm)","camera":"48 MP","battery":"3200 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 37,
+    "brand": "Apple",
+    "name": "iPhone 17 Air 1TB",
+    "price": 42040000
+    "short": "iPhone 17 Air 1TB - luu tr? kh?ng",
+    "description": "iPhone 17 Air phi�n b?n 1TB v?i dung lu?ng luu tr? t?i da.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Air/carousel-1.jpg","assets/img/iPhone 17 Air/carousel-2.jpg","assets/img/iPhone 17 Air/carousel-3.jpg","assets/img/iPhone 17 Air/carousel-4.jpg","assets/img/iPhone 17 Air/carousel-5.jpg"],
+    "colors": ["Sky Blue (Xanh Da Tr?i)", "Light Gold (V�ng Nh?t)", "Cloud White (Tr?ng M�y)", "Space Black (�en Kh�ng Gian)"],
+    "specs": {"screen":"6.1\" OLED","ram":"8 GB","rom":"1 TB","chip":"A19 Bionic (3nm)","camera":"48 MP","battery":"3200 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 24,
+    "brand": "Apple",
+    "name": "iPhone 17 256GB",
+    "price": 24999000
+    "short": "iPhone 17 256GB - thi?t k? m?i, hi?u nang cao",
+    "description": "iPhone 17 phi�n b?n 256GB v?i chip A18 Bionic, camera c?i ti?n v� m�n h�nh s�ng hon.",
+    "featured": false,
+    "images": [
+      "assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg",
+      "assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg",
+      "assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg",
+      "assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg"
+    ],
+    "colors": ["Lavender (T�m O?i Huong)", "Sage (Xanh X� Thom)", "Mist Blue (Xanh Suong M�)", "White (Tr?ng)", "Black (�en)"],
+    "specs": {"screen":"6.1\" OLED","ram":"8 GB","rom":"256 GB","chip":"A19 Bionic (3nm)","camera":"48 MP + 12 MP","battery":"3400 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 25,
+    "brand": "Apple",
+    "name": "iPhone 17 512GB",
+    "price": 31499000
+    "short": "iPhone 17 512GB - luu tr? l?n",
+    "description": "iPhone 17 phi�n b?n 512GB d�nh cho ngu?i d�ng c?n nhi?u dung lu?ng luu tr?.",
+    "featured": false,
+    "images": [
+      "assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg",
+      "assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg",
+      "assets/img/iPhone 17/carousel-1.jpg","assets/img/iPhone 17/carousel-2.jpg","assets/img/iPhone 17/carousel-3.jpg","assets/img/iPhone 17/carousel-4.jpg","assets/img/iPhone 17/carousel-5.jpg"
+    ],
+    "colors": ["Lavender (T�m O?i Huong)", "Sage (Xanh X� Thom)", "Mist Blue (Xanh Suong M�)", "White (Tr?ng)", "Black (�en)"],
+    "specs": {"screen":"6.1\" OLED","ram":"8 GB","rom":"512 GB","chip":"A19 Bionic (3nm)","camera":"48 MP + 12 MP","battery":"3400 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 26,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro 256GB",
+    "price": 34999000
+    "short": "iPhone 17 Pro - camera Pro, m�n h�nh ProMotion",
+    "description": "Phi�n b?n Pro 256GB v?i camera n�ng c?p, m�n h�nh ProMotion v� v?t li?u cao c?p.",
+    "featured": false,
+    "images": [
+      "assets/img/iPhone 17 Pro/carousel-1.jpg","assets/img/iPhone 17 Pro/carousel-2.jpg","assets/img/iPhone 17 Pro/carousel-3.jpg","assets/img/iPhone 17 Pro/carousel-4.jpg","assets/img/iPhone 17 Pro/carousel-5.jpg",
+      "assets/img/iPhone 17 Pro/carousel-1.jpg","assets/img/iPhone 17 Pro/carousel-2.jpg","assets/img/iPhone 17 Pro/carousel-3.jpg","assets/img/iPhone 17 Pro/carousel-4.jpg","assets/img/iPhone 17 Pro/carousel-5.jpg",
+      "assets/img/iPhone 17 Pro/carousel-1.jpg","assets/img/iPhone 17 Pro/carousel-2.jpg","assets/img/iPhone 17 Pro/carousel-3.jpg","assets/img/iPhone 17 Pro/carousel-4.jpg","assets/img/iPhone 17 Pro/carousel-5.jpg",
+      "assets/img/iPhone 17 Pro/carousel-1.jpg","assets/img/iPhone 17 Pro/carousel-2.jpg","assets/img/iPhone 17 Pro/carousel-3.jpg","assets/img/iPhone 17 Pro/carousel-4.jpg","assets/img/iPhone 17 Pro/carousel-5.jpg"
+    ],
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "specs": {"screen":"6.1\" OLED ProMotion","ram":"8 GB","rom":"256 GB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"3550 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 27,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro 512GB",
+    "price": 41499000
+    "short": "iPhone 17 Pro 512GB - hi?u nang v� luu tr? cao",
+    "description": "Phi�n b?n Pro 512GB d�nh cho ngu?i d�ng chuy�n nghi?p c?n nhi?u b? nh?.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Pro/carousel-1.jpg","assets/img/iPhone 17 Pro/carousel-2.jpg","assets/img/iPhone 17 Pro/carousel-3.jpg","assets/img/iPhone 17 Pro/carousel-4.jpg","assets/img/iPhone 17 Pro/carousel-5.jpg"],
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "specs": {"screen":"6.1\" OLED ProMotion","ram":"8 GB","rom":"512 GB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"3550 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 28,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro 1TB",
+    "price": 47999000
+    "short": "iPhone 17 Pro 1TB - luu tr? kh?ng",
+    "description": "Phi�n b?n Pro 1TB cho ngu?i d�ng c?n kh�ng gian luu tr? t?i da.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Pro/carousel-1.jpg","assets/img/iPhone 17 Pro/carousel-2.jpg","assets/img/iPhone 17 Pro/carousel-3.jpg","assets/img/iPhone 17 Pro/carousel-4.jpg","assets/img/iPhone 17 Pro/carousel-5.jpg"],
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "specs": {"screen":"6.1\" OLED ProMotion","ram":"8 GB","rom":"1 TB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"3550 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 29,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro Max 256GB",
+    "price": 37999000
+    "short": "iPhone 17 Pro Max - m�n h�nh l?n, pin tr�u",
+    "description": "Phi�n b?n Pro Max 256GB d�nh cho ngu?i d�ng c?n m�n h�nh l?n v� camera t?t nh?t.",
+    "featured": false,
+    "images": [
+      "assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg",
+      "assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg",
+      "assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg",
+      "assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg",
+      "assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg"
+    ],
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "specs": {"screen":"6.7\" OLED ProMotion","ram":"12 GB","rom":"256 GB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"4350 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 30,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro Max 512GB",
+    "price": 44499000
+    "short": "iPhone 17 Pro Max 512GB - luu tr? cao",
+    "description": "Phi�n b?n Pro Max 512GB cho ngu?i d�ng mu?n dung lu?ng v� hi?u nang cao.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg"],
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "specs": {"screen":"6.7\" OLED ProMotion","ram":"12 GB","rom":"512 GB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"4350 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 31,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro Max 1TB",
+    "price": 50999000
+    "short": "iPhone 17 Pro Max 1TB - luu tr? c?c l?n",
+    "description": "Phi�n b?n Pro Max 1TB cho ngu?i d�ng chuy�n nghi?p c?n dung lu?ng t?i da.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg"],
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "specs": {"screen":"6.7\" OLED ProMotion","ram":"12 GB","rom":"1 TB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"4350 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 32,
+    "brand": "Apple",
+    "name": "iPhone 17 Pro Max 2TB",
+    "price": 63999000
+    "short": "iPhone 17 Pro Max 2TB - luu tr? t?i da",
+    "description": "Phi�n b?n Pro Max 2TB cho ngu?i d�ng mu?n nhi?u nh?t v? dung lu?ng luu tr?.",
+    "featured": false,
+    "images": ["assets/img/iPhone 17 Pro Max/carousel-1.jpg","assets/img/iPhone 17 Pro Max/carousel-2.jpg","assets/img/iPhone 17 Pro Max/carousel-3.jpg","assets/img/iPhone 17 Pro Max/carousel-4.jpg","assets/img/iPhone 17 Pro Max/carousel-5.jpg"],
+    "colors": ["Silver (B?c)", "Deep Blue (Xanh �?m)", "Cosmic Orange (Cam Vu Tr?)"],
+    "specs": {"screen":"6.7\" OLED ProMotion","ram":"12 GB","rom":"2 TB","chip":"A19 Pro (3nm)","camera":"48 MP + 48 MP + 48 MP","battery":"4350 mAh","os":"iOS 18"}
+  },
+  {
+    "id": 33,
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S25 512GB",
+    "price": 26490000
+    "short": "Phi�n b?n 512GB - Luu tr? r?ng r�i - AI m?nh m?",
+    "description": "Samsung Galaxy S25 512GB v?i kh�ng gian luu tr? r?ng r�i cho h�ng ngh�n ?nh, video 4K.. `nThi?t k? khung Armor Aluminum, k�nh Victus 2 b?n b?.. `nM�n h�nh Dynamic AMOLED 2X 6.2 inch 120Hz, 2600 nits.. `nChip Snapdragon 8 Elite 3nm m?nh m?, RAM 12GB da nhi?m xu?t s?c.. `nCamera 50MP AI + 12MP si�u r?ng + 10MP tele 3x.. `nPin 4000mAh, s?c nhanh 25W.. `nAI: Circle to Search, Auto Trim, Photo Assist, Audio Eraser.. `nAndroid 15.",
+    "featured": false,
+    "images": ["assets/img/Samsung Galaxy S25/carousel-1.jpg","assets/img/Samsung Galaxy S25/carousel-2.jpg","assets/img/Samsung Galaxy S25/carousel-3.jpg","assets/img/Samsung Galaxy S25/carousel-4.jpg","assets/img/Samsung Galaxy S25/carousel-5.jpg"],
+    "colors": ["Xanh Navy", "Xanh Icy", "Xanh Mint", "Bac Shadow"],
+    "specs": {"screen":"6.2\" Dynamic AMOLED 2X 120Hz","ram":"12 GB","rom":"512 GB","chip":"Snapdragon 8 Elite (3nm)","camera":"50 MP + 12 MP + 10 MP","battery":"4000 mAh","os":"Android 15"}
+  },
+  {
+    "id": 34,
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S25+ 512GB",
+    "price": 30490000
+    "short": "B? nh? 512GB - M�n h�nh 6.7\" - Pin 4700mAh",
+    "description": "Samsung Galaxy S25+ 512GB v?i m�n h�nh l?n 6.7 inch Dynamic AMOLED 2X 120Hz, d? s�ng 2600 nits. Chip Snapdragon 8 Elite 3nm hi?u nang vu?t tr?i, RAM 12GB. Camera 50MP AI + 12MP si�u r?ng + 10MP tele zoom 3x. Pin 4700mAh kh?ng, s?c nhanh 45W, s?c kh�ng d�y 15W. Khung Armor Aluminum cao c?p, k�nh Victus 2. B? nh? 512GB luu tr? tho?i m�i. AI: Seamless Actions, Auto Trim, Photo Assist. Android 15.",
+    "featured": false,
+    "images": ["assets/img/Samsung Galaxy S25+/carousel-1.jpg","assets/img/Samsung Galaxy S25+/carousel-2.jpg","assets/img/Samsung Galaxy S25+/carousel-3.jpg","assets/img/Samsung Galaxy S25+/carousel-4.jpg","assets/img/Samsung Galaxy S25+/carousel-5.jpg"],
+    "colors": ["Xanh Navy", "Xanh Icy", "Xanh Mint", "Bac Shadow"],
+    "specs": {"screen":"6.7\" Dynamic AMOLED 2X 120Hz","ram":"12 GB","rom":"512 GB","chip":"Snapdragon 8 Elite (3nm)","camera":"50 MP + 12 MP + 10 MP","battery":"4700 mAh","os":"Android 15"}
+  },
+  {
+    "id": 35,
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S25 Ultra 512GB",
+    "price": 37490000
+    "short": "512GB - Camera 200MP - S Pen t�ch h?p - Khung Titan",
+    "description": "Samsung Galaxy S25 Ultra 512GB cao c?p v?i khung Titan Grade 5, m�n h�nh 6.8 inch Quad HD+ 120Hz, 2600 nits.. `nCamera d?nh cao 200MP AI + 50MP si�u r?ng + 50MP tele 5x + 10MP tele 3x, Space Zoom 100x.. `nChip Snapdragon 8 Elite 3nm c?c m?nh, RAM 12GB.. `nB? nh? 512GB r?ng r�i.. `nPin 5000mAh, s?c 45W.. `nS Pen th�ng minh t�ch h?p.. `nAI: Seamless Actions, Auto Trim Video, Audio Eraser, Photo Assist.. `nAndroid 15, v�n tay si�u �m AI.",
+    "featured": false,
+    "images": ["assets/img/Samsung Galaxy S25 Ultra/carousel-1.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-2.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-3.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-4.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-5.jpg"],
+    "colors": ["Den Titan", "Xam Titan", "Xanh Bac Titan", "Trang Bac Titan"],
+    "specs": {"screen":"6.8\" Dynamic AMOLED 2X 120Hz","ram":"12 GB","rom":"512 GB","chip":"Snapdragon 8 Elite (3nm)","camera":"200 MP + 50 MP + 50 MP + 10 MP","battery":"5000 mAh","os":"Android 15"}
+  },
+  {
+    "id": 38,
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S25 Ultra 1TB",
+    "price": 44790000
+    "short": "1TB - Flagship t?i thu?ng - Camera 200MP chuy�n nghi?p",
+    "description": "Samsung Galaxy S25 Ultra 1TB - d?nh cao c�ng ngh? v?i b? nh? kh?ng l? 1TB luu tr? v� t?n.. `nKhung Titan Grade 5 si�u b?n, m�n h�nh 6.8 inch Quad HD+ Dynamic AMOLED 2X 120Hz, 2600 nits.. `nH? th?ng camera chuy�n nghi?p: 200MP AI + 50MP ultra-wide + 50MP periscope 5x + 10MP tele 3x, Space Zoom 100x.. `nChip Snapdragon 8 Elite 3nm m?nh nh?t, RAM 12GB.. `nPin 5000mAh, s?c si�u nhanh 45W.. `nS Pen da nang.. `nAI d?nh cao: Seamless Actions di?u khi?n da app, Auto Trim Video, Photo Assist, Audio Eraser.. `nAndroid 15.",
+    "featured": false,
+    "images": ["assets/img/Samsung Galaxy S25 Ultra/carousel-1.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-2.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-3.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-4.jpg","assets/img/Samsung Galaxy S25 Ultra/carousel-5.jpg"],
+    "colors": ["Den Titan", "Xam Titan", "Xanh Bac Titan", "Trang Bac Titan"],
+    "specs": {"screen":"6.8\" Dynamic AMOLED 2X 120Hz","ram":"12 GB","rom":"1 TB","chip":"Snapdragon 8 Elite (3nm)","camera":"200 MP + 50 MP + 50 MP + 10 MP","battery":"5000 mAh","os":"Android 15"}
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

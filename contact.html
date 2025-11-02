@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Liên hệ - Hshop</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    main {
+      flex: 1;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Hshop</a>
+      
+      <form class="d-flex search-form search-form-mobile ms-auto me-2" role="search" onsubmit="return searchProducts(event)">
+        <div class="search-wrapper position-relative">
+          <input class="form-control" type="search" id="searchInput" placeholder="Tìm..." aria-label="Search" autocomplete="off" oninput="showSearchSuggestions(this.value)">
+          <div id="searchSuggestions" class="search-suggestions"></div>
+        </div>
+        <button class="btn btn-outline-primary btn-sm" type="submit">
+          <i class="bi bi-search"></i>
+        </button>
+      </form>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse" id="navMenu">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item"><a class="nav-link" href="products.html">Sản phẩm</a></li>
+          <li class="nav-item"><a class="nav-link" href="brands.html">Thương hiệu</a></li>
+          <li class="nav-item"><a class="nav-link" href="contact.html">Liên hệ</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container my-5">
+    <h1>Liên hệ</h1>
+    <div class="row">
+      <div class="col-md-6">
+        <h5>Thông tin liên hệ</h5>
+        <ul class="list-unstyled">
+          <li><strong>Hotline:</strong> 0123 123 123</li>
+          <li><strong>Zalo:</strong> 0123 123 123</li>
+          <li><strong>Email:</strong> abcabc@gmail.com</li>
+          <li><strong>Địa chỉ:</strong> 346, Tân Hương, Tân Phú, Hồ Chí Minh</li>
+        </ul>
+        <h5>Bản đồ</h5>
+        <div class="ratio ratio-16x9 mb-3">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2805443228417!2d106.61554101129575!3d10.789811958900907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752c063ccf681d%3A0x101e9cc3107f822!2zMzQ2IFTDom4gSMawxqFuZywgUC4gUGjDuiBUaHXhuq1uLCBUw6JuIFBow7osIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCA3MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1762113570043!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h5>Gửi tin nhắn</h5>
+        <form id="contactForm">
+          <div class="mb-3">
+            <label class="form-label">Họ tên</label>
+            <input class="form-control" id="name" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Số điện thoại / Email</label>
+            <input class="form-control" id="contact" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Nội dung</label>
+            <textarea class="form-control" id="message" rows="4" required></textarea>
+          </div>
+          <button class="btn btn-primary">Gửi</button>
+        </form>
+        <script>
+          document.getElementById('contactForm').addEventListener('submit', function(e){
+            e.preventDefault();
+            alert('Cảm ơn bạn! Chúng tôi sẽ liên hệ lại sớm. (Demo không gửi thông tin)');
+            this.reset();
+          });
+
+        function searchProducts(event) {
+          event.preventDefault();
+          const searchInput = document.querySelector('.search-form input[name="search"]');
+          const searchTerm = searchInput.value.trim();
+          if (searchTerm) {
+            window.location.href = `products.html?search=${encodeURIComponent(searchTerm)}`;
+          }
+        }
+        </script>
+      </div>
+    </div>
+  </main>
+
+  <footer class="bg-light py-3 mt-5">
+    <div class="container text-center">© Hshop</div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
